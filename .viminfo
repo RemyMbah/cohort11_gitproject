@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
-:wq!
-|2,0,1684201707,,"wq!"
 :q!
-|2,0,1683956574,,"q!"
+|2,0,1684204004,,"q!"
+:wq!
+|2,0,1684203979,,"wq!"
 :w!
 |2,0,1683956525,,"w!"
 :qw!
@@ -43,36 +43,74 @@
 |3,1,36,0,1,0,1682599532,"i"
 
 # File marks:
-'0  3  5  ~/bash
-|4,48,3,5,1684201707,"~/bash"
-'1  4  3  ~/git_project/bash.sh
-|4,49,4,3,1683958509,"~/git_project/bash.sh"
-'2  6  4  ~/git_project/gitfile1.txt
-|4,50,6,4,1683957062,"~/git_project/gitfile1.txt"
-'3  7  7  ~/git_project/gitfile1.txt
-|4,51,7,7,1683956661,"~/git_project/gitfile1.txt"
-'4  1  0  ~/git_project/gitle1.txt
-|4,52,1,0,1683956574,"~/git_project/gitle1.txt"
-'5  7  4  ~/git_project/gitfile1.txt
-|4,53,7,4,1683956168,"~/git_project/gitfile1.txt"
-'6  6  9  ~/git_project/gitfile1.txt
-|4,54,6,9,1683956168,"~/git_project/gitfile1.txt"
-'7  8  4  ~/git_project/gitfile1.txt
-|4,55,8,4,1683956168,"~/git_project/gitfile1.txt"
+'0  1  0  ~/bash.sh
+|4,48,1,0,1684204004,"~/bash.sh"
+'1  1  13  ~/bash
+|4,49,1,13,1684203979,"~/bash"
+'2  3  5  ~/bash
+|4,50,3,5,1684201707,"~/bash"
+'3  3  5  ~/bash
+|4,51,3,5,1684201707,"~/bash"
+'4  4  3  ~/git_project/bash.sh
+|4,52,4,3,1683958509,"~/git_project/bash.sh"
+'5  6  4  ~/git_project/gitfile1.txt
+|4,53,6,4,1683957062,"~/git_project/gitfile1.txt"
+'6  7  7  ~/git_project/gitfile1.txt
+|4,54,7,7,1683956661,"~/git_project/gitfile1.txt"
+'7  1  0  ~/git_project/gitle1.txt
+|4,55,1,0,1683956574,"~/git_project/gitle1.txt"
 '8  7  4  ~/git_project/gitfile1.txt
 |4,56,7,4,1683956168,"~/git_project/gitfile1.txt"
-'9  6  4  ~/git_project/gitfile1.txt
-|4,57,6,4,1683955186,"~/git_project/gitfile1.txt"
+'9  6  9  ~/git_project/gitfile1.txt
+|4,57,6,9,1683956168,"~/git_project/gitfile1.txt"
 
 # Jumplist (newest first):
+-'  1  0  ~/bash.sh
+|4,39,1,0,1684204004,"~/bash.sh"
+-'  1  13  ~/bash
+|4,39,1,13,1684203979,"~/bash"
+-'  1  13  ~/bash
+|4,39,1,13,1684203979,"~/bash"
+-'  3  5  ~/bash
+|4,39,3,5,1684203246,"~/bash"
+-'  3  5  ~/bash
+|4,39,3,5,1684203246,"~/bash"
 -'  3  5  ~/bash
 |4,39,3,5,1684201707,"~/bash"
+-'  3  5  ~/bash
+|4,39,3,5,1684201707,"~/bash"
+-'  1  0  ~/bash
+|4,39,1,0,1684201483,"~/bash"
 -'  1  0  ~/bash
 |4,39,1,0,1684201483,"~/bash"
 -'  4  3  ~/git_project/bash.sh
 |4,39,4,3,1683958509,"~/git_project/bash.sh"
 -'  4  3  ~/git_project/bash.sh
 |4,39,4,3,1683958509,"~/git_project/bash.sh"
+-'  4  3  ~/git_project/bash.sh
+|4,39,4,3,1683958509,"~/git_project/bash.sh"
+-'  4  3  ~/git_project/bash.sh
+|4,39,4,3,1683958509,"~/git_project/bash.sh"
+-'  4  3  ~/git_project/bash.sh
+|4,39,4,3,1683958509,"~/git_project/bash.sh"
+-'  4  3  ~/git_project/bash.sh
+|4,39,4,3,1683958509,"~/git_project/bash.sh"
+-'  4  3  ~/git_project/bash.sh
+|4,39,4,3,1683958509,"~/git_project/bash.sh"
+-'  4  3  ~/git_project/bash.sh
+|4,39,4,3,1683958509,"~/git_project/bash.sh"
+-'  1  0  ~/git_project/bash.sh
+|4,39,1,0,1683958233,"~/git_project/bash.sh"
+-'  1  0  ~/git_project/bash.sh
+|4,39,1,0,1683958233,"~/git_project/bash.sh"
+-'  1  0  ~/git_project/bash.sh
+|4,39,1,0,1683958233,"~/git_project/bash.sh"
+-'  1  0  ~/git_project/bash.sh
+|4,39,1,0,1683958233,"~/git_project/bash.sh"
+-'  1  0  ~/git_project/bash.sh
+|4,39,1,0,1683958233,"~/git_project/bash.sh"
+-'  1  0  ~/git_project/bash.sh
+|4,39,1,0,1683958233,"~/git_project/bash.sh"
 -'  1  0  ~/git_project/bash.sh
 |4,39,1,0,1683958233,"~/git_project/bash.sh"
 -'  1  0  ~/git_project/bash.sh
@@ -85,6 +123,54 @@
 |4,39,6,4,1683957062,"~/git_project/gitfile1.txt"
 -'  6  4  ~/git_project/gitfile1.txt
 |4,39,6,4,1683957062,"~/git_project/gitfile1.txt"
+-'  6  4  ~/git_project/gitfile1.txt
+|4,39,6,4,1683957062,"~/git_project/gitfile1.txt"
+-'  6  4  ~/git_project/gitfile1.txt
+|4,39,6,4,1683957062,"~/git_project/gitfile1.txt"
+-'  6  4  ~/git_project/gitfile1.txt
+|4,39,6,4,1683957062,"~/git_project/gitfile1.txt"
+-'  6  4  ~/git_project/gitfile1.txt
+|4,39,6,4,1683957062,"~/git_project/gitfile1.txt"
+-'  6  4  ~/git_project/gitfile1.txt
+|4,39,6,4,1683957062,"~/git_project/gitfile1.txt"
+-'  6  4  ~/git_project/gitfile1.txt
+|4,39,6,4,1683957062,"~/git_project/gitfile1.txt"
+-'  6  4  ~/git_project/gitfile1.txt
+|4,39,6,4,1683957062,"~/git_project/gitfile1.txt"
+-'  6  4  ~/git_project/gitfile1.txt
+|4,39,6,4,1683957062,"~/git_project/gitfile1.txt"
+-'  6  4  ~/git_project/gitfile1.txt
+|4,39,6,4,1683957062,"~/git_project/gitfile1.txt"
+-'  6  4  ~/git_project/gitfile1.txt
+|4,39,6,4,1683957062,"~/git_project/gitfile1.txt"
+-'  6  4  ~/git_project/gitfile1.txt
+|4,39,6,4,1683957062,"~/git_project/gitfile1.txt"
+-'  6  4  ~/git_project/gitfile1.txt
+|4,39,6,4,1683957062,"~/git_project/gitfile1.txt"
+-'  7  7  ~/git_project/gitfile1.txt
+|4,39,7,7,1683956661,"~/git_project/gitfile1.txt"
+-'  7  7  ~/git_project/gitfile1.txt
+|4,39,7,7,1683956661,"~/git_project/gitfile1.txt"
+-'  7  7  ~/git_project/gitfile1.txt
+|4,39,7,7,1683956661,"~/git_project/gitfile1.txt"
+-'  7  7  ~/git_project/gitfile1.txt
+|4,39,7,7,1683956661,"~/git_project/gitfile1.txt"
+-'  7  7  ~/git_project/gitfile1.txt
+|4,39,7,7,1683956661,"~/git_project/gitfile1.txt"
+-'  7  7  ~/git_project/gitfile1.txt
+|4,39,7,7,1683956661,"~/git_project/gitfile1.txt"
+-'  7  7  ~/git_project/gitfile1.txt
+|4,39,7,7,1683956661,"~/git_project/gitfile1.txt"
+-'  7  7  ~/git_project/gitfile1.txt
+|4,39,7,7,1683956661,"~/git_project/gitfile1.txt"
+-'  7  7  ~/git_project/gitfile1.txt
+|4,39,7,7,1683956661,"~/git_project/gitfile1.txt"
+-'  7  7  ~/git_project/gitfile1.txt
+|4,39,7,7,1683956661,"~/git_project/gitfile1.txt"
+-'  7  7  ~/git_project/gitfile1.txt
+|4,39,7,7,1683956661,"~/git_project/gitfile1.txt"
+-'  7  7  ~/git_project/gitfile1.txt
+|4,39,7,7,1683956661,"~/git_project/gitfile1.txt"
 -'  7  7  ~/git_project/gitfile1.txt
 |4,39,7,7,1683956661,"~/git_project/gitfile1.txt"
 -'  7  7  ~/git_project/gitfile1.txt
@@ -109,6 +195,54 @@
 |4,39,1,0,1683956590,"~/git_project/gitfile1.txt"
 -'  1  0  ~/git_project/gitfile1.txt
 |4,39,1,0,1683956590,"~/git_project/gitfile1.txt"
+-'  1  0  ~/git_project/gitfile1.txt
+|4,39,1,0,1683956590,"~/git_project/gitfile1.txt"
+-'  1  0  ~/git_project/gitfile1.txt
+|4,39,1,0,1683956590,"~/git_project/gitfile1.txt"
+-'  1  0  ~/git_project/gitfile1.txt
+|4,39,1,0,1683956590,"~/git_project/gitfile1.txt"
+-'  1  0  ~/git_project/gitfile1.txt
+|4,39,1,0,1683956590,"~/git_project/gitfile1.txt"
+-'  1  0  ~/git_project/gitfile1.txt
+|4,39,1,0,1683956590,"~/git_project/gitfile1.txt"
+-'  1  0  ~/git_project/gitfile1.txt
+|4,39,1,0,1683956590,"~/git_project/gitfile1.txt"
+-'  1  0  ~/git_project/gitfile1.txt
+|4,39,1,0,1683956590,"~/git_project/gitfile1.txt"
+-'  1  0  ~/git_project/gitfile1.txt
+|4,39,1,0,1683956590,"~/git_project/gitfile1.txt"
+-'  1  0  ~/git_project/gitfile1.txt
+|4,39,1,0,1683956590,"~/git_project/gitfile1.txt"
+-'  1  0  ~/git_project/gitfile1.txt
+|4,39,1,0,1683956590,"~/git_project/gitfile1.txt"
+-'  1  0  ~/git_project/gitfile1.txt
+|4,39,1,0,1683956590,"~/git_project/gitfile1.txt"
+-'  1  0  ~/git_project/gitfile1.txt
+|4,39,1,0,1683956590,"~/git_project/gitfile1.txt"
+-'  1  0  ~/git_project/gitfile1.txt
+|4,39,1,0,1683956590,"~/git_project/gitfile1.txt"
+-'  1  0  ~/git_project/gitfile1.txt
+|4,39,1,0,1683956590,"~/git_project/gitfile1.txt"
+-'  1  0  ~/git_project/gitfile1.txt
+|4,39,1,0,1683956590,"~/git_project/gitfile1.txt"
+-'  1  0  ~/git_project/gitfile1.txt
+|4,39,1,0,1683956590,"~/git_project/gitfile1.txt"
+-'  1  0  ~/git_project/gitfile1.txt
+|4,39,1,0,1683956590,"~/git_project/gitfile1.txt"
+-'  1  0  ~/git_project/gitfile1.txt
+|4,39,1,0,1683956590,"~/git_project/gitfile1.txt"
+-'  1  0  ~/git_project/gitfile1.txt
+|4,39,1,0,1683956590,"~/git_project/gitfile1.txt"
+-'  1  0  ~/git_project/gitfile1.txt
+|4,39,1,0,1683956590,"~/git_project/gitfile1.txt"
+-'  1  0  ~/git_project/gitfile1.txt
+|4,39,1,0,1683956590,"~/git_project/gitfile1.txt"
+-'  1  0  ~/git_project/gitfile1.txt
+|4,39,1,0,1683956590,"~/git_project/gitfile1.txt"
+-'  1  0  ~/git_project/gitfile1.txt
+|4,39,1,0,1683956590,"~/git_project/gitfile1.txt"
+-'  1  0  ~/git_project/gitfile1.txt
+|4,39,1,0,1683956590,"~/git_project/gitfile1.txt"
 -'  1  0  ~/git_project/gitle1.txt
 |4,39,1,0,1683956574,"~/git_project/gitle1.txt"
 -'  1  0  ~/git_project/gitle1.txt
@@ -131,150 +265,21 @@
 |4,39,1,0,1683956574,"~/git_project/gitle1.txt"
 -'  1  0  ~/git_project/gitle1.txt
 |4,39,1,0,1683956574,"~/git_project/gitle1.txt"
--'  1  0  ~/git_project/gitle1.txt
-|4,39,1,0,1683956574,"~/git_project/gitle1.txt"
--'  1  0  ~/git_project/gitle1.txt
-|4,39,1,0,1683956574,"~/git_project/gitle1.txt"
--'  1  0  ~/git_project/gitle1.txt
-|4,39,1,0,1683956574,"~/git_project/gitle1.txt"
--'  1  0  ~/git_project/gitle1.txt
-|4,39,1,0,1683956574,"~/git_project/gitle1.txt"
--'  1  0  ~/git_project/gitle1.txt
-|4,39,1,0,1683956574,"~/git_project/gitle1.txt"
--'  7  4  ~/git_project/gitfile1.txt
-|4,39,7,4,1683956168,"~/git_project/gitfile1.txt"
--'  8  4  ~/git_project/gitfile1.txt
-|4,39,8,4,1683956168,"~/git_project/gitfile1.txt"
--'  7  4  ~/git_project/gitfile1.txt
-|4,39,7,4,1683956168,"~/git_project/gitfile1.txt"
--'  7  4  ~/git_project/gitfile1.txt
-|4,39,7,4,1683956168,"~/git_project/gitfile1.txt"
--'  7  4  ~/git_project/gitfile1.txt
-|4,39,7,4,1683956168,"~/git_project/gitfile1.txt"
--'  8  4  ~/git_project/gitfile1.txt
-|4,39,8,4,1683956168,"~/git_project/gitfile1.txt"
--'  7  4  ~/git_project/gitfile1.txt
-|4,39,7,4,1683956168,"~/git_project/gitfile1.txt"
--'  7  4  ~/git_project/gitfile1.txt
-|4,39,7,4,1683956168,"~/git_project/gitfile1.txt"
--'  7  4  ~/git_project/gitfile1.txt
-|4,39,7,4,1683956168,"~/git_project/gitfile1.txt"
--'  8  4  ~/git_project/gitfile1.txt
-|4,39,8,4,1683956168,"~/git_project/gitfile1.txt"
--'  7  4  ~/git_project/gitfile1.txt
-|4,39,7,4,1683956168,"~/git_project/gitfile1.txt"
--'  7  4  ~/git_project/gitfile1.txt
-|4,39,7,4,1683956168,"~/git_project/gitfile1.txt"
--'  7  4  ~/git_project/gitfile1.txt
-|4,39,7,4,1683956168,"~/git_project/gitfile1.txt"
--'  8  4  ~/git_project/gitfile1.txt
-|4,39,8,4,1683956168,"~/git_project/gitfile1.txt"
--'  7  4  ~/git_project/gitfile1.txt
-|4,39,7,4,1683956168,"~/git_project/gitfile1.txt"
--'  7  4  ~/git_project/gitfile1.txt
-|4,39,7,4,1683956168,"~/git_project/gitfile1.txt"
--'  6  4  ~/git_project/gitfile1.txt
-|4,39,6,4,1683956132,"~/git_project/gitfile1.txt"
--'  6  4  ~/git_project/gitfile1.txt
-|4,39,6,4,1683956132,"~/git_project/gitfile1.txt"
--'  6  4  ~/git_project/gitfile1.txt
-|4,39,6,4,1683956132,"~/git_project/gitfile1.txt"
--'  6  4  ~/git_project/gitfile1.txt
-|4,39,6,4,1683956132,"~/git_project/gitfile1.txt"
--'  6  4  ~/git_project/gitfile1.txt
-|4,39,6,4,1683956132,"~/git_project/gitfile1.txt"
--'  6  4  ~/git_project/gitfile1.txt
-|4,39,6,4,1683956132,"~/git_project/gitfile1.txt"
--'  6  4  ~/git_project/gitfile1.txt
-|4,39,6,4,1683956132,"~/git_project/gitfile1.txt"
--'  6  4  ~/git_project/gitfile1.txt
-|4,39,6,4,1683956132,"~/git_project/gitfile1.txt"
--'  6  4  ~/git_project/gitfile1.txt
-|4,39,6,4,1683956132,"~/git_project/gitfile1.txt"
--'  6  4  ~/git_project/gitfile1.txt
-|4,39,6,4,1683956132,"~/git_project/gitfile1.txt"
--'  6  4  ~/git_project/gitfile1.txt
-|4,39,6,4,1683956132,"~/git_project/gitfile1.txt"
--'  6  4  ~/git_project/gitfile1.txt
-|4,39,6,4,1683956132,"~/git_project/gitfile1.txt"
--'  6  4  ~/git_project/gitfile1.txt
-|4,39,6,4,1683955186,"~/git_project/gitfile1.txt"
--'  6  4  ~/git_project/gitfile1.txt
-|4,39,6,4,1683955186,"~/git_project/gitfile1.txt"
--'  6  4  ~/git_project/gitfile1.txt
-|4,39,6,4,1683955186,"~/git_project/gitfile1.txt"
--'  6  4  ~/git_project/gitfile1.txt
-|4,39,6,4,1683955186,"~/git_project/gitfile1.txt"
--'  6  4  ~/git_project/gitfile1.txt
-|4,39,6,4,1683955186,"~/git_project/gitfile1.txt"
--'  6  4  ~/git_project/gitfile1.txt
-|4,39,6,4,1683955186,"~/git_project/gitfile1.txt"
--'  6  4  ~/git_project/gitfile1.txt
-|4,39,6,4,1683955186,"~/git_project/gitfile1.txt"
--'  6  4  ~/git_project/gitfile1.txt
-|4,39,6,4,1683955186,"~/git_project/gitfile1.txt"
--'  1  28  ~/git_project/gitfile1.txt
-|4,39,1,28,1683955075,"~/git_project/gitfile1.txt"
--'  1  28  ~/git_project/gitfile1.txt
-|4,39,1,28,1683955075,"~/git_project/gitfile1.txt"
--'  1  28  ~/git_project/gitfile1.txt
-|4,39,1,28,1683955075,"~/git_project/gitfile1.txt"
--'  1  28  ~/git_project/gitfile1.txt
-|4,39,1,28,1683955075,"~/git_project/gitfile1.txt"
--'  1  28  ~/git_project/gitfile1.txt
-|4,39,1,28,1683955075,"~/git_project/gitfile1.txt"
--'  1  28  ~/git_project/gitfile1.txt
-|4,39,1,28,1683955075,"~/git_project/gitfile1.txt"
--'  1  28  ~/git_project/gitfile1.txt
-|4,39,1,28,1683955075,"~/git_project/gitfile1.txt"
--'  1  28  ~/git_project/gitfile1.txt
-|4,39,1,28,1683955075,"~/git_project/gitfile1.txt"
--'  1  28  ~/git_project/gitfile1.txt
-|4,39,1,28,1683955075,"~/git_project/gitfile1.txt"
--'  1  28  ~/git_project/gitfile1.txt
-|4,39,1,28,1683955075,"~/git_project/gitfile1.txt"
--'  1  28  ~/git_project/gitfile1.txt
-|4,39,1,28,1683955075,"~/git_project/gitfile1.txt"
--'  1  28  ~/git_project/gitfile1.txt
-|4,39,1,28,1683955075,"~/git_project/gitfile1.txt"
--'  1  28  ~/git_project/gitfile1.txt
-|4,39,1,28,1683955075,"~/git_project/gitfile1.txt"
--'  1  28  ~/git_project/gitfile1.txt
-|4,39,1,28,1683955075,"~/git_project/gitfile1.txt"
--'  1  28  ~/git_project/gitfile1.txt
-|4,39,1,28,1683955075,"~/git_project/gitfile1.txt"
--'  1  28  ~/git_project/gitfile1.txt
-|4,39,1,28,1683955075,"~/git_project/gitfile1.txt"
--'  5  5  ~/git_project/fitfile2.txt
-|4,39,5,5,1683953108,"~/git_project/fitfile2.txt"
--'  5  5  ~/git_project/fitfile2.txt
-|4,39,5,5,1683953108,"~/git_project/fitfile2.txt"
--'  5  5  ~/git_project/fitfile2.txt
-|4,39,5,5,1683953108,"~/git_project/fitfile2.txt"
--'  5  5  ~/git_project/fitfile2.txt
-|4,39,5,5,1683953108,"~/git_project/fitfile2.txt"
--'  5  5  ~/git_project/fitfile2.txt
-|4,39,5,5,1683953108,"~/git_project/fitfile2.txt"
--'  5  5  ~/git_project/fitfile2.txt
-|4,39,5,5,1683953108,"~/git_project/fitfile2.txt"
--'  5  5  ~/git_project/fitfile2.txt
-|4,39,5,5,1683953108,"~/git_project/fitfile2.txt"
--'  5  5  ~/git_project/fitfile2.txt
-|4,39,5,5,1683953108,"~/git_project/fitfile2.txt"
--'  5  5  ~/git_project/fitfile2.txt
-|4,39,5,5,1683953108,"~/git_project/fitfile2.txt"
--'  5  5  ~/git_project/fitfile2.txt
-|4,39,5,5,1683953108,"~/git_project/fitfile2.txt"
 
 # History of marks within files (newest to oldest):
 
+> ~/bash.sh
+	*	1684203998	0
+	"	1	0
+
 > ~/bash
-	*	1684201695	0
-	"	3	5
-	^	3	6
-	.	3	5
+	*	1684203971	0
+	"	1	13
+	^	1	13
+	.	1	12
 	+	4	3
 	+	3	5
+	+	1	12
 
 > ~/git_project/bash.sh
 	*	1683958499	0
@@ -418,14 +423,3 @@
 	^	13	29
 	.	13	28
 	+	13	28
-
-> ~/var2.sh
-	*	1682601951	0
-	"	9	28
-	^	9	29
-	.	9	28
-	+	3	32
-	+	1	13
-	+	2	0
-	+	10	0
-	+	9	28
