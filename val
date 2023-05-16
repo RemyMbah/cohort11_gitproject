@@ -1,0 +1,6 @@
+school="ACADA learning
+class=cohort11
+
+echo"I am studying devOps in school"
+echo I am syudying DevOps in ${school}
+echo"$class}
